@@ -94,7 +94,3 @@ Các server mặc định dùng UDP cổng 5683. Nếu chạy trên máy khác, 
 - Bài 2: Server cập nhật cảm biến mỗi 3 giây; Client hiển thị nhiệt độ, độ ẩm và cảnh báo khi nhiệt độ > 35°C hoặc độ ẩm < 40%.
 - Bài 3: Controller thay đổi trạng thái đèn qua PUT, truy vấn qua GET; Monitoring Client nhận trạng thái ban đầu và các thay đổi qua Observe.
 
-## 7. Lưu ý trước khi nộp
-- Điền họ tên và mã sinh viên thật trong file client bài 1.
-- Chạy thử đủ các chương trình, chụp ảnh màn hình kết quả thực tế và bổ sung vào bài nộp nếu giảng viên yêu cầu.
-- README mô tả kết quả mong đợi; chỉ ghi là đã chạy thành công sau khi bạn tự chạy và kiểm tra trên máy.
