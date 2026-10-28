@@ -1,4 +1,17 @@
 # Thực hành IoT buổi 3 – Lập trình Python với CoAP
+## 0. Thông tin sinh viên
+
+| STT | Họ tên | MSSV |
+|---|---|---|
+| 1 | Trương Đình Hoàng Vũ | B23DCCN949 |
+| 2 | Dương Đức Thành | B23DCCN767 |
+| 3 | Vũ Minh Quang | B23DCCN697 |
+
+| Thông tin | Nội dung |
+|---|---|
+| Môn | IoT |
+| Buổi thực hành | Buổi 3 — Python với CoAP |
+
 
 ## 1. Giới thiệu
 Bộ bài thực hành mô phỏng 3 bài theo đề CoAP:
